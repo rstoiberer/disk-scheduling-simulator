@@ -195,7 +195,7 @@ This project was developed by **Sydney Eckstein** and **Richard Stoiberer** for 
 
 ---
 
-### 📘 Project Inspiration
+## 📘 Project Inspiration
 
 The project idea and specifications were adapted from the textbook:
 
