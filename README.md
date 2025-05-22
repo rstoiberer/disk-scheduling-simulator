@@ -191,7 +191,7 @@ These average delays are graphically shown in the histograms.
 
 ## 🙏 Credits
 
-This project was developed by **Sydney Eckstein** and **Richard Stoiberer** for the course **Operating Systems** at **Rollins College**, taught by **Dr. Valerie Summet**.
+This project was developed by [@SydneyEckstein](https://github.com/SydneyEckstein) and **Richard Stoiberer** for the course **Operating Systems** at **Rollins College**, taught by **Dr. Valerie Summet**.
 
 ---
 
